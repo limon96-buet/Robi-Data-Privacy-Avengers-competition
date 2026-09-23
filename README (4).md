@@ -1,8 +1,7 @@
 # 🛡️ AEGIS Framework — AI Ethics, Governance & Intelligent Security
 
 ### New Telecom Ltd Case Study | Robi Data Privacy Avengers Competition
-images/          ← drop all 10 PNG files here
-  *.ipynb
+
 ---
 
 > **AEGIS** (Adaptive, Ethical, Governed, Intelligent, Secure) is a two-part AI safety and privacy framework built for New Telecom Ltd. It demonstrates that production-grade AI systems can be both **useful** and **trustworthy** — with formal privacy guarantees, explainable decisions, and hardened defenses against adversarial attacks — all grounded in peer-reviewed research and open-source tooling.
