@@ -23,6 +23,5 @@ month = aug
   year={2023},
   url={https://api.semanticscholar.org/CorpusID:258546941}
 }
-
-7. 
+ 
 
